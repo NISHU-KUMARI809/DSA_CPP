@@ -1,3 +1,4 @@
+// find the maximum and minimum in an array
 #include<iostream>
 #include<climits>
 using namespace std;
